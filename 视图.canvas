@@ -1,1 +1,11 @@
-{}
+{
+	"nodes":[
+		{"id":"949bac4c61c7a271","type":"file","file":"关键字/怀疑主义.md","x":-960,"y":-440,"width":400,"height":400},
+		{"id":"95dabd75da180db4","type":"file","file":"关键字/悲观主义.md","x":-380,"y":-500,"width":380,"height":400},
+		{"id":"833c400abbbe9b50","type":"file","file":"README.md","x":-440,"y":0,"width":400,"height":400}
+	],
+	"edges":[
+		{"id":"008bff84b1787940","fromNode":"95dabd75da180db4","fromSide":"bottom","toNode":"833c400abbbe9b50","toSide":"top"},
+		{"id":"9e939ba4a0aace50","fromNode":"949bac4c61c7a271","fromSide":"right","toNode":"833c400abbbe9b50","toSide":"left"}
+	]
+}
